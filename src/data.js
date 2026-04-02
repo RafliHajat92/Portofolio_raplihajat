@@ -141,41 +141,53 @@ export const listTools = [
 
 
 
-import Proyek7 from "/assets/proyek/proyek7.jpg";
-import Proyek8 from "/assets/proyek/proyek8.jpg";
-import Proyek9 from "/assets/proyek/proyek9.jpg";
+import Proyek7 from "/assets/proyek/putrabungsu.png";
+import Proyek8 from "/assets/proyek/smartlocker.png";
+import Proyek9 from "/assets/proyek/reha.png";
+import Proyek10 from "/assets/proyek/adistyfitur.png";
 
 export const listProyek = [
   {
     id: 1,
     image: Proyek7,
-    title: "Delivoria Apps",
-    subtitle: "Your AI-Powered Gateway to Local Flavors, Built with Flutter and Gemini Intelligence.",
-    fullDescription:"Delivoria is a cutting-edge food delivery platform built with Flutter to provide a seamless, high-performance user experience that connects food enthusiasts with a vast array of local culinary treasures, from humble street vendors to top-tier restaurants. By leveraging Firebase Firestore, the application ensures real-time data synchronization and a robust, scalable backend for instant order processing and live updates. Enhancing the digital dining experience, Delivoria integrates a sophisticated Gemini-powered chatbot that offers personalized meal recommendations and interactive support, making the journey from discovery to doorstep faster, smarter, and more intuitive than ever before.",
+    title: "Pt Dua Putra Bungsu",
+    subtitle: "Prototype Web Catalog for Contractor Equipment Rental Solutions.",
+    fullDescription:"This project is a modern UI prototype developed to represent a web-based catalog system for PT Dua Putra Bungsu, a company engaged in contractor equipment rental services. The platform is designed to showcase a wide range of construction tools and heavy equipment in a structured, user-friendly interface, enabling customers to easily browse, search, and explore available rental options. Built with a focus on clean design and usability, this prototype emphasizes intuitive navigation, detailed product presentation, and a professional digital presence to support business growth. The system concept can be further integrated with backend services for real-time availability, booking management, and customer interaction, making it a scalable solution for future development.",
     borderColor: "#3B82F6",
     gradient: "linear-gradient(145deg, #3B82F6, #000)",
-    url: "https://github.com/untuksenangsenang/DelivoriaApp.git",
+    url: "https://www.figma.com/proto/8mrx0FaHY3GvGpyMrCJmrY/Batu_Pijakan?page-id=1469%3A1466&node-id=2211-1867&viewport=-1976%2C2298%2C0.46&t=CXhCrVpX39n2QhGO-1&scaling=min-zoom&content-scaling=fixed",
     dad: "100",
   },
   {
     id: 2,
     image: Proyek8,
-    title: "Fix It Now",
+    title: "Smart Locker",
     subtitle: "A Multi-Tenant Smart Infrastructure Management System for Resilient and Transparent Communities.",
     fullDescription:"Fix It Now is a sophisticated, multi-tenant facility management ecosystem built with Next.js to deliver a fast, SEO-friendly, and responsive interface for reporting and tracking public infrastructure. By leveraging Supabase for its robust PostgreSQL database and seamless real-time capabilities, the platform allows users in universities, corporations, or government bodies to report damages, upload photos, and track repair tickets with instant status updates. The application promotes transparency by enabling a dual-flow system where the public can both report issues and offer appreciation for well-maintained facilities, while administrators benefit from a powerful backend to manage maintenance workflows. Designed with a generic, scalable architecture, Fix It Now empowers any organization to register and independently manage their digital infrastructure, ensuring efficient maintenance and high-quality environments through modern web technology.",
     gradient: "linear-gradient(180deg, #10B981, #000)",
-    url: "https://github.com/Zauro25/Fix-It-Now-DPSI.git",
+    url: "https://github.com/StreamLine-18/Smart-Locker/releases/tag/v0.0.1",
     dad: "200",
   },
   {
     id: 3,
     image: Proyek9,
-    title: "Instagram Scrapper",
-    subtitle: "A Robust Instagram Data Mining Tool Built with FastAPI and React.",
-    fullDescription:"Developed as a Data Mining course project, this Instagram Scraper provides a streamlined interface for extracting valuable social media insights through a modern full-stack architecture. The application utilizes a high-performance FastAPI backend written in Python to handle complex data crawling logic and API requests, ensuring efficient retrieval of public profile data and post metrics. On the frontend, a clean and responsive React user interface allows users to input target parameters and visualize scraped data in real-time without the need for manual command-line execution. By bridging the gap between raw data extraction and user accessibility, this tool demonstrates a practical approach to social media analysis and automated data gathering.",
+    title: "Reha (Reminder Web)",
+    subtitle: "Smart Web-Based Schedule Reminder for Better Time Management.",
+    fullDescription:"Reha is a web-based application designed to help users manage and remember their daily schedules efficiently. The platform provides an intuitive interface for creating, organizing, and tracking tasks or events, ensuring that important activities are never missed. With features such as real-time reminders, schedule notifications, and structured task management, Reha enhances productivity and time awareness. Built with a focus on simplicity and usability, this system can be further developed with integrations like calendar synchronization, push notifications, and personalized reminders, making it a scalable solution for both personal and professional use.",
     borderColor: "#3B82F6",
     gradient: "linear-gradient(145deg, #3B82F6, #000)",
-    url: "https://github.com/rissss21",
+    url: "https://github.com/RafliHajat92/responsitekweb-REHA-.git",
+    dad: "300",
+  },
+  {
+    id: 4,
+    image: Proyek10,
+    title: "Adisty face Id and E-ktm",
+    subtitle: "Figma Prototype for Face ID Login and E-KTM Digital Student Card.",
+    fullDescription:"Adisty UAD is a UI/UX prototype designed in Figma to visualize a modern student authentication system using Face ID login and a digital student ID (E-KTM). This prototype focuses on delivering a seamless and intuitive user experience, showcasing user flows such as biometric login, identity verification, and digital card access. Designed with a clean and user-centered approach, the interface highlights accessibility, simplicity, and efficiency for campus environments. The prototype serves as a conceptual solution to enhance digital identity systems in universities, demonstrating how technology can improve both security and user convenience without relying on physical cards",
+    borderColor: "#3B82F6",
+    gradient: "linear-gradient(145deg, #3B82F6, #000)",
+    url: "https://www.figma.com/proto/gKwtnhIBcsO6DgngyYUPZo/NGAPAKBOYS-ADISTY?node-id=1105-379&viewport=462%2C69%2C0.09&t=djRVH5kTklyZMNjX-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1105%3A379&page-id=1103%3A1732",
     dad: "300",
   },
 ];

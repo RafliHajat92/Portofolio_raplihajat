@@ -75,19 +75,19 @@ function App() {
         <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
           <div>
             <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
-              <img src="/assets/rapi1.jpg" className="w-7 h-7 rounded-md" />
-              <q>I’m not lazy, I’m just on energy-saving mode.</q>
+              <img src="/assets/rapli.jpeg" className="w-7 h-7 rounded-md" />
+              <q>who man judge by cover and ui.</q>
             </div>
 
             <h1 className="text-5xl font-bold mb-6">
               <ShinyText
-                text="Hi I'm Rafi Amrullah Al-Baihaqi Gunawan"
+                text="Hi I'm Mohammad Rafli Hajat Negara"
                 speed={3}
               />
             </h1>
 
             <BlurText
-  text="Information Systems student specializing in Web Development, focused on building modern, responsive, and user-friendly web applications."
+  text="Information Systems student passionate about Full-Stack Web Development, crafting modern, responsive, and high-performance web applications from intuitive frontend interfaces to robust backend systems."
   delay={150}
   animateBy="words"
   direction="top"
@@ -96,8 +96,8 @@ function App() {
 
             <div className="flex items-center gap-4">
               <a
-              href="/public/assets/CV-imrapii.pdf"
-                download="Rafi_Amrullah_CV.pdf"
+              href="/public/assets/Mohammad Rafli Hajat Negara_CV.pdf"
+                download="Rafli_Hajat_CV.pdf"
                 className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700"
               >
                 <ShinyText text="Download CV" speed={3} />
@@ -114,10 +114,10 @@ function App() {
 
           <div className="md:ml-auto">
             <ProfileCard
-              name="Rafi Amrullah"
+              name="Rafli Hajat"
               title="Web Developer"
-              handle="imrapii"
-              avatarUrl="/assets/rapi.png"
+              handle="rpliihn_"
+              avatarUrl="/assets/RAPI.png"
               showUserInfo={true}
             />
           </div>
@@ -132,7 +132,7 @@ function App() {
     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
 
     <p className="text-gray-400 max-w-2xl mx-auto leading-relaxed">
-      I’m <span className="text-violet-400 font-semibold">Rafi Amrullah Al-Baihaqi</span>, 
+      I’m <span className="text-violet-400 font-semibold">Rafli hajat</span>, 
       an Information Systems student with a strong passion for 
       <span className="text-violet-400">Web Development</span>. 
       I enjoy building modern, responsive, and user-friendly websites that 
@@ -153,7 +153,7 @@ function App() {
     </div>
 
     <div className="bg-zinc-800/60 p-6 rounded-xl border border-zinc-700 hover:border-violet-500 transition">
-      <h3 className="text-3xl font-bold text-white mb-2">3.55</h3>
+      <h3 className="text-3xl font-bold text-white mb-2">3.54</h3>
       <p className="text-gray-400">Current GPA</p>
     </div>
 
