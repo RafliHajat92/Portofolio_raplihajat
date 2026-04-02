@@ -75,7 +75,7 @@ function App() {
         <div className="hero grid md:grid-cols-2 items-center pt-10 xl:gap-0 gap-6 grid-cols-1">
           <div>
             <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
-              <img src="/assets/rapli.jpeg" className="w-7 h-7 rounded-md" />
+              <img src="/assets/rapli.png" className="w-7 h-7 rounded-md" />
               <q>who man judge by cover and ui.</q>
             </div>
 
