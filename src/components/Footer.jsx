@@ -21,8 +21,8 @@ const Footer = () => {
 
         {/* Ikon Sosmed - di tengah di mobile */}
         <div className="flex gap-3 order-2 md:order-none">
-          <a href="https://github.com/untuksenangsenang"><i className="ri-github-fill ri-2x"></i></a>
-          <a href="https://www.instagram.com/imrapii/"><i className="ri-instagram-fill ri-2x"></i></a>
+          <a href="https://github.com/RafliHajat92"><i className="ri-github-fill ri-2x"></i></a>
+          <a href="https://www.instagram.com/rpliihn_?igsh=cHU1cHF6MHdocmNx&utm_source=qr"><i className="ri-instagram-fill ri-2x"></i></a>
         </div>
 
         {/* Dock - paling bawah di mobile */}
