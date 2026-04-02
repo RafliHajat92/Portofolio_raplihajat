@@ -117,7 +117,7 @@ function App() {
               name="Rafli Hajat"
               title="Web Developer"
               handle="rpliihn_"
-              avatarUrl="/assets/RAPI.png"
+              avatarUrl="/assets/rapli.png"
               showUserInfo={true}
             />
           </div>
