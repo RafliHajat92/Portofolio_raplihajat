@@ -96,7 +96,7 @@ function App() {
 
             <div className="flex items-center gap-4">
               <a
-              href="/public/assets/Mohammad Rafli Hajat Negara_CV.pdf"
+              href="/assets/Mohammad Rafli Hajat Negara_CV.pdf"
                 download="Rafli_Hajat_CV.pdf"
                 className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700"
               >
